@@ -17,6 +17,8 @@ with open('recipes.txt', 'rt') as file:
 
 print(cook_book)
 
+# Первый комит
+
 
 
 
